@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Metrics](/github-metrics.svg)
 
 <!--
 **Droy40/Droy40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
