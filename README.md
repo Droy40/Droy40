@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<img src="https://github.com/Droy40/Droy40/blob/main/github-metrics.svg" align="center">
+<img src="https://github.com/Droy40/Droy40/blob/main/metrics.plugin.isocalendar.fullyear.svg" align="center">
 <!--
 **Droy40/Droy40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
